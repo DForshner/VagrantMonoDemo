@@ -1,0 +1,6 @@
+*.log
+
+# Vagrant specific
+.vagrant
+
+VERSION
