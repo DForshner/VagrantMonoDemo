@@ -10,3 +10,5 @@ Demo of using vagrant to provision environment and run some mono (C#) code.
 2) Check for HelloWorld
 
 ![Screenshot](/ScreenShots/HelloWorld.png)
+
+3) **Optional** SSH to instance on localhost port:2222 log: vagrant pass: vagrant
